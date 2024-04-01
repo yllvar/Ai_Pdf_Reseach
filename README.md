@@ -1,4 +1,4 @@
-# Ai Pdr Research
+# Ai Pdf Research using Open Ai Langchain
 
 This project aims to develop a question-answering system capable of extracting relevant information from PDF documents and providing answers to user queries. The system utilizes language models and natural language processing techniques to comprehend the content of PDF files and generate responses to user questions.
 

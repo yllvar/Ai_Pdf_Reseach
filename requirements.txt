@@ -1,0 +1,9 @@
+streamlit
+PyPDF2
+langchain
+python-dotenv
+openai
+tiktoken
+faiss-cpu
+langchain-community
+PyMuPDF

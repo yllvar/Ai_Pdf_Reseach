@@ -1,7 +1,3 @@
-Certainly! Below is a README.md file tailored to your project:
-
----
-
 # PDF Question-Answering System
 
 This project aims to develop a question-answering system capable of extracting relevant information from PDF documents and providing answers to user queries. The system utilizes language models and natural language processing techniques to comprehend the content of PDF files and generate responses to user questions.

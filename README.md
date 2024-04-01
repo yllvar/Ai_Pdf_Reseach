@@ -1,4 +1,4 @@
-# PDF Question-Answering System
+# Ai Pdr Research
 
 This project aims to develop a question-answering system capable of extracting relevant information from PDF documents and providing answers to user queries. The system utilizes language models and natural language processing techniques to comprehend the content of PDF files and generate responses to user questions.
 
@@ -19,8 +19,8 @@ To set up the PDF Question-Answering System locally, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone <repository-url>
-    cd PDF-Question-Answering-System
+    git clone <[repository-url](https://github.com/yllvar/Ai_Pdf_Reseach.git)>
+    cd BreadcrumbsAi_Pdf_Reseach
     ```
 
 2. Install the required dependencies listed in the `requirements.txt` file:
@@ -53,7 +53,7 @@ To set up the PDF Question-Answering System locally, follow these steps:
 
 3. Obtain answers and insights: After submitting your question, the system will process the PDF content, generate an answer based on the query, and provide additional analysis or insights related to the answer.
 
-To elevate the functionality, usability, and overall value of your PDF question-answering app. Here is the future improvements that will be implemented in the future:
+To elevate the functionality, usability and overall value question-answering app, here is the future improvements that will be implemented in the future:
 
 1. **Improved Text Processing:**
    - [ ] Implement more advanced text processing techniques to handle complex PDF structures, such as tables, images with captions, and footnotes.
